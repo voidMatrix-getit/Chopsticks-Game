@@ -1,0 +1,121 @@
+Chopsticks is a game of strategy as well as basic math. It has roots in Japan and can also called Finger Chess, Swords, Split, Magic Fingers, Chinese Fingers, Cherries, Sticks, and Twiddly Dinks. Though there are many variations of rules and different names, the overall theory and spirit of the game remains the same. This game is not the widely known beginner's piano song though it shares the same name.
+
+rules:
+Face your opponent as you both put your hands in front of you. Each time you start a round of the game you both hold your hands out with one finger extended.
+
+Pick one person to go first. You will then take turns going back and forth. On each turn, one player will use one hand to tap one of their opponent's hand. Let's assume you are going first.
+
+4
+Tap one of your opponent's hand with one of yours. If you tap with one finger then your opponent will add your one finger + their extended fingers and extend the sum of the two.
+For example, you tap your opponent's hand. You have one finger and they have two. They then add the fingers and on their tapped hand, they put out three fingers.
+On the next turn, your opponent uses their hand of three fingers to tap your hand of one. You now have to hold out four fingers because your one finger plus their three equals four fingers.
+Only the tapping hand has the power to change your opponent's hand.
+
+5
+Take turns between players to tap each others' hands. The goal is to keep going and adding fingers to your opponent's hand by tapping. When someone's hand reaches five fingers that are extended, that hand is considered "dead" and is no longer in play.[2]
+
+There are several variations of this rule, but the simple rules of Chopsticks dictate that once a hand has reached five fingers, that hand is useless. Which makes sense because one of background stories behind Chopsticks is that you can hold a chopstick with up to one finger, but an open hand means that you are going to drop your utensil and food as well.
+
+Continue playing until one player has lost both of their hands. The goal is to be the last one standing with at least one hand left still alive.
+
+2
+Introduce splits into the game. When it's your turn, you can tap your own two hands together to redistribute the number of fingers you have extended. For example, if you have one hand with three fingers and one hand with just one finger and you split them, you can put two fingers on each hand.
+The goal of this strategy is to prevent one of your hands from reaching five fingers and becoming dead.
+Splits don't have to be even, but it's preferable. Some odd number combinations merely means swapping fingers between hands with no strategic bonus. However, if you have a combination such as four fingers and one finger on each hand, you can split that into a hand of three and a hand of two.
+A player can "revive" a dead hand by splitting. If you have one hand dead and one alive with four fingers, you can split and put two fingers on each hand to bring your dead hand back into the game.
+
+--------------------------------------------------------------------------------------------------------
+Chopsticks (hand game):
+Chopsticks is a hand game for two or more players, in which players extend a number of fingers from each hand and transfer those scores by taking turns to tap one hand against another. Chopsticks is an example of a combinatorial game, and is solved in the sense that with perfect play, an optimal strategy from any point is known.
+
+
+
+1)
+This official set of rules is called rollover where five fingers are subtracted should a hand's sum exceeds 5 as described further.
+Each player begins with one finger raised on each hand. After the first player turns proceed clockwise.
+On a player's turn, they must either attack or split. There are two types of splits, transfers and divisions.
+
+2)
+To attack, a player uses one of their live hands to strike an opponent's live hand. The number of fingers on the opponent's struck hand will increase by the number of fingers on the hand used to strike.
+You will then take turns going back and forth. On each turn, one player will use one hand to tap one of their opponent's hand.
+
+3)
+A hand is live if it has at least one finger, and this is indicated by raising at least one finger. 
+If any hand of any player reaches exactly five fingers, then the hand is dead.
+If you go over 5 you subtract the sum of all of the numbers by 5
+Continue playing until one player has lost both of their hands. 
+
+4)
+If a hand has zero fingers, the hand is dead, and this is indicated by raising zero fingers (i.e. a closed fist).
+A player with two dead hands is eliminated from the game.
+The goal is to be the last one standing with at least one hand left still alive.
+A player wins once all opponents are eliminated.
+
+5)
+To transfer, a player strikes their own two hands together, and transfers raised fingers from one hand to the other as desired. However, a player cannot transfer fingers to make a hand have more than 4 fingers.
+If a player has a dead hand, the player can divide the fingers between the other hand and the dead hand by transferring fingers from the other hand to the dead hand.
+
+
+
+--------------------------------------------------------------------------------------------------------
+Variations
+Misère: First player to have both of their hands killed wins.
+Suicide: Players are allowed to kill one of their own hands with a split. For example, in the position [1201], a player could execute 12–03, thus bringing the game to [0103]. The opponent is forced to play B-D, bringing the game to [0401], at which point a quick win for the first player is possible.
+Swaps/Cherri: If players have two unequal live hands, they may swap them (though forfeiting their turn). This variation commonly yields a draw by repetition or infinite loop for obvious reasons. To avoid this, limits can be placed on the number of consecutive swaps a player can do without being attacked before they are forced to attack.
+Sudden Death: Players lose when they only have one finger left (on both hands). Alternately, each player could begin with three lives, and every time they get down to [01], they lose a life.
+Meta: If a player's hands add up to over five, they can combine them, subtract five from the total, and then split up the remainder. For example, [44] adds up to 8. Under Meta rules, 4 and 4 can be combined into 8, which becomes 3 after subtracting five; these can then be split into [12]. Therefore, it is possible to go from [44] to [12] in a single move. Meta unlocks 2 new possible moves (34–11, 44–12). If playing both Meta and Suicide, four additional moves are unlocked (24–01, 33–01, 34–02, 44–03), for a maximum of 20 possible moves in total.
+Logan Clause: Players are allowed to suicide and swap, but only if doing both simultaneously (i.e. swapping a dead hand for a live one).
+Cutoff: If a hand gets above five fingers, it is dead (as opposed to rollover, described in the official rules).
+Zombies: With three or more players, if a player is knocked out, then they are permanently reduced to one finger on one hand. On their turn, they may attack, but may not split or be attacked (invented by Chris Bandy).
+Transfers only: Divisions are not allowed. The only splits allowed are transfers.
+Divisions only: Transfers are not allowed. The only splits allowed are divisions.
+Halvesies: Splitting is only allowed when dividing an even number into two equal halves, or optionally, an odd number being divided as evenly as possible (using whole numbers). In this variation, the second player has a winning strategy (can always force a win).[3]
+Stumps: If a player is at [01], it is legal to split into [0.5 0.5].
+More Hands: Each player has more than two hands. This is usually played in teams of multiple people, as people only have two hands. With more hands per player, different transfer, division, swapping, and suicide rules are possible, and include but are not limited to:
+Single transfer: Each player can transfer fingers between only two hands.
+Multiple transfer: Each player can transfer fingers between more than two hands, so long as the resulting state is differeng from the original states
+Single Division: The player can transfer fingers from only one hand to only one dead hand.
+Partition: The player can transfer fingers from only one hand to multiple dead hands.
+Transfer and partition: The player can transfer fingers from multiple hands to revive dead hands.
+Different Numbers: A hand dies when it reaches a positive number {\displaystyle r}r. {\displaystyle r=5}{\displaystyle r=5} is the standard Chopsticks variant. Different hand counting systems could be used for numbers greater than 5 such as Chinese hand numerals, senary finger counting, and finger binary. This variation often includes rollovers.
+Suns: Both players start with a 4 in each of their hands ([4444]). This is a position that is unreachable in normal gameplay (i.e. from the opening position [1111]).
+Integers: It is permitted to swap one of one's own hands by flipping it over, changing the +/- sign of the hand. This allows for negative and zero value hands, though a hand still dies at 5 or -5. With roll-over, this action becomes identical to replacing the value of the hand with 5 minus the value.
+
+Chopsticks (also called Magic Fingers) is a commonly played two player traditional Japanese children’s hand game. However, it has spread to many other countries such as the United States.
+
+------------------------------------------------------------------------------------------------------
+Gameplay
+
+The goal of Chopsticks is to knock out the other opponent’s “hands” by giving both hands five or more points thus “knocking out” the hands.
+
+Each finger is equivalent to one point. Each player starts out with two points (one finger on each hand). A player must tap a hand in order to give it points. When a player taps an opponent’s hand, the player adds what the opponent originally had on his or her hand and what is on the player’s hand to get the sum of the fingers that your opponent has on his or her hand. A player’s hands do not change when the opponent’s hand is tapped. The option of being able to transfer points from one hand to another is available. For example, if a player had three points on his or her right hand and one on his or her left, the player could rearrange them to have two on each hand. The points must be distributed differently after they tap their hands together; a player may not simply swap which fingers are on which hands.
+
+The players take turns giving each other points. Both hands of an opponent must be knocked out (both hands receive five or more points) in order for a victory. This is called a dead hand. If a single hand receives five or more points, the hand is eliminated (an eliminated hand is equivalent to zero points) and the hand is useless unless it is revived by transferring points from a hand that is alive. An opponent cannot revive or tap an eliminated hand.
+
+Alternate explanation
+
+A player’s hand goes out when it has 5 or more fingers out (the idea being that each finger represents a separately held chopstick, and it is only possible to hold 4 chopsticks separately at the same time). The game of chopsticks is a turn-based game; each player has the opportunity to and must make one move in each turn. A player can do one of two things in a turn: tap one of the other player’s hands that already has one or more fingers out, or tap their own hands together. Should they choose to tap the other player’s hand, the other player must put out as many extra fingers as the hand they were tapped with had (e.g.: Player 1 has 3 fingers on his left hand, and Player 2 has 1 finger on his left hand. Player 1 taps Player 2 with his left hand. Player 1 will still have 3 fingers, but Player 2 will now have 4 fingers.). If tapping another player would cause their hand to have 5 or more fingers, the hand will instead go out. Should they choose to tap their own hands together, they must then add up the total number of fingers they have on both hands, and then distribute them as they please. The fingers must be distributed differently after they tap their hands together; a player may not simply swap which fingers are on which hands. They are free to remove all fingers from a hand or bring a hand which was previously brought out of play (either by moving fingers or by have 5 or more fingers) back into play.
+
+Chopsticks is a solved game in which the second player can always force a win when playing with the original rules.
+
+Variations of play
+
+Leftovers
+
+Chopsticks can also be played the way mentioned above except if one hand gets more than five points the leftover points are left on the hand. This means you subtract five from the number of points one hand gets and the only way a hand can get knocked out is if it accumulates exactly five points. This way of playing is generally for more advanced players and requires more strategy.
+
+Splits
+
+Players are allowed to evenly divide an even number of points in one hand to an empty hand, an action known as “split”. (e.g., a player with a 4:0 point distribution can use their turn to “split” the points 2:2, 2:0 would become 1:1, and 3:0 would become 2:1 or 1:2) In addition to splitting, players are allowed to hit their own hands to add points as they would for an opponent’s. This variation of the game, however, would go on forever with perfect play from both sides.
+
+Knubs
+
+The knubs variation is played the same as regular Chopsticks except that there can now be half-fingers or “knubs”. A knub is created by extending the finger upwards and curling it down. Since a knub represents a half of a finger, two knubs will equal one regular finger, which means that everything can be split, so 1:0 would become 0.5:0.5 and 3:0 would become 1.5:1.5 and 4.5:0 becomes 2.5:2, etc. Because of all of the possible splits the game can last a while. A good strategy to use while playing knubs is to reduce the opponent’s hands to 0:0.5 and transfer until you have 4.5:4.5.
+
+Quarters
+
+This variation is played the same way as Knubs except that each knub can further be divided into half-knubs which represents a quarter of a finger. This variation is very confusing and will last a long time.
+
+Game of Five
+
+In this variation, a player does not lose when he gets 5 fingers on one hand, instead losing when they have more than 5 fingers on a hand. When this variation is played in conjunction with the Splits variation, the game is a win for the second player to go.
